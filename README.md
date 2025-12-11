@@ -20,7 +20,7 @@ To build an end-to-end analytical dashboard that provides an actionable insights
 
 The dashboard begins with several critical indicators:
 
-* Average Age: 38.92
+*** Average Age: 38.92
 * Average Balance: 76.49K
 * Average Credit Score: 650.53
 * Average Tenure: 5 years
@@ -29,7 +29,7 @@ The dashboard begins with several critical indicators:
 * Active Members: 5151
 * Total Customers: 10,000
 * Average Number of Products: 1.53
-* Customers with Credit Cards: 7055
+* Customers with Credit Cards: 7055**
 
 These KPI's help in highlighting customer demographics and financial standing while giving a quick snapshot of overall churn.
 
