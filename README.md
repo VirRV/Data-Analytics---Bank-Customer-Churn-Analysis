@@ -20,8 +20,8 @@ To build an end-to-end analytical dashboard that provides an actionable insights
 
 The dashboard begins with several critical indicators:
 
-**1. Average Age: 38.92
-2. Average Balance: 76.49K
+***1. Average Age: 38.92*
+*2. Average Balance: 76.49K*
 3. Average Credit Score: 650.53
 4. Average Tenure: 5 years
 5. Average Salary: 100.09K
