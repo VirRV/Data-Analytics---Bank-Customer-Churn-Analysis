@@ -40,8 +40,16 @@ Key Insight:
 
 * Male customers account for a slightly higher exit percentage than females, helping the bank identify gender-specific retention strategies. 
 
+# Exited Customers by Country
 
+A filled map visual shows the regions - France, Germany, and Spain where most of the customers are likely to churn. This helps the bank compare performance across different geographic markets.
 
+# Customer Distribution by Age & Exit Behaviour
+
+A stacked column chart helps in displaying various age groups against the churn rate
+**Key Takeaway:**
+
+* Middle aged customers between 35-50 years old show a noticeably higher chrun rate as compared to the others. This helps the bank in identifying target age groups that need improved engagement.
 
 
 
