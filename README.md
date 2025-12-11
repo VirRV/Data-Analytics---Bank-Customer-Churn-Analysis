@@ -1,4 +1,4 @@
-# Data-Analytics---Bank-Customer-Churn-Analysis
+# Bank Customer Churn Analysis
 Bank Customer Churn Analysis with Power BI
 
 An Interactive Data Visualization to understand the Bank Customer Churn Rate.
