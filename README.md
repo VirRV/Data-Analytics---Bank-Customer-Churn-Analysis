@@ -51,5 +51,37 @@ A stacked column chart helps in displaying various age groups against the churn 
 
 * Middle aged customers between 35-50 years old show a noticeably higher chrun rate as compared to the others. This helps the bank in identifying target age groups that need improved engagement.
 
+# Count of Customer IDs by Exit Status
+
+A pie chart ellaborating:
+
+* **79.63% customers retained**
+* **20.37% customers exited**
+
+This provides the clarity on overall retention health.
+
+# Customer Count by Balance
+
+A column visual showing how account balance co-relates with churn rate.
+
+* Customers with mid-range balance around 100k churn more, indicating unmet expectations among mid-value customers.
+
+# Churn by Number of Products
+The Bar Chart compares customer churn besd on product usage.
+
+* Customers wit **1 product** show the highest churn rate, which helps in highlighting cross-selling opportunities offering multiple increases retention.
+
+# Interactive Slicers
+The dasboard includes slicers for:
+
+* **Gender**
+* **Country**
+
+These allow focused analysis and real-time filtering, making the dashboard interactive and insightful for decision makers.
+
+# Summary
+
+This project demonstrates my ability to clean, model, and analyse customer churn data using the data visualization tool Power BI. The dashboard blends **KPI metrics, geographical insights, behavioral analysis, and interactive filtering** to help banks better understand the churn patterns and develop targeted retention strategies. It is designed for claritym data0driven storytelling, and business impact.
+
 
 
