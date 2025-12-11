@@ -20,16 +20,25 @@ To build an end-to-end analytical dashboard that provides an actionable insights
 
 The dashboard begins with several critical indicators:
 
-***1. Average Age: 38.92*
-*2. Average Balance: 76.49K*
-3. Average Credit Score: 650.53
-4. Average Tenure: 5 years
-5. Average Salary: 100.09K
-6. Total Exited Customers: 2037
-7. Active Members: 5151
-8. Total Customers: 10,000
-9. Average Number of Products: 1.53
-10. Customers with Credit Cards: 7055**
+*Average Age: 38.92*
+
+*Average Balance: 76.49K*
+
+*Average Credit Score: 650.53*
+
+*Average Tenure: 5 years*
+
+*Average Salary: 100.09K*
+
+*Total Exited Customers: 2037*
+
+*Active Members: 5151*
+
+*Total Customers: 10,000*
+
+*Average Number of Products: 1.53*
+
+*Customers with Credit Cards: 7055*
 
 These KPI's help in highlighting customer demographics and financial standing while giving a quick snapshot of overall churn.
 
