@@ -8,14 +8,40 @@ This project mailnly focuses on analyzing the customer attrition within a random
 
 # Objective 
 
-To build an end-to-end analytical dashboard that provides an actionable insights into # why customers leave #, which are most likely to churn, and what business areas require strategic intervention.
+To build an end-to-end analytical dashboard that provides an actionable insights into **why customers leave**, which are most likely to churn, and what business areas require strategic intervention.
 
-# Demo
+# Bank Customer Churn Dashboard
 
 ![Bank Customers Churn Dashboard](https://github.com/user-attachments/assets/46e1dba3-ee5b-443f-b91f-e01f88779179)
 
-# Basic Overview
+# Key Features of the Dashboard:-
 
-In the above created dashboard I have depicted the churn rate of a bank mainly based on the Country of Bank Origin, and the Gender. 
+**KPI Cards (Top Metrics Overview)**
 
-As seen, I have used different KPI's to highlight how much is the Average 
+The dashboard begins with several critical indicators:
+
+**1. Average Age: 38.92
+2. Average Balance: 76.49K
+3. Average Credit Score: 650.53
+4. Average Tenure: 5 years
+5. Average Salary: 100.09K
+6. Total Exited Customers: 2037
+7. Active Members: 5151
+8. Total Customers: 10,000
+9. Average Number of Products: 1.53
+10. Customers with Credit Cards: 7055**
+
+These KPI's help in highlighting customer demographics and financial standing while giving a quick snapshot of overall churn.
+
+# Customer Exits by Gender
+
+A donut chart displays churn distribution between male and female customers.
+Key Insight:
+
+* Male customers account for a slightly higher exit percentage than females, helping the bank identify gender-specific retention strategies. *
+
+
+
+
+
+
