@@ -20,7 +20,7 @@ To build an end-to-end analytical dashboard that provides an actionable insights
 
 The dashboard begins with several critical indicators:
 
--Average Age: 38.92.
+* Average Age: 38.92.
 
 *Average Balance: 76.49K.
 
